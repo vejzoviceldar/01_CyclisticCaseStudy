@@ -10,9 +10,16 @@ I used SQL to combine 12 months of Cyclistic data from 2024 into a single master
 The marketing director believes that expanding the base of annual members is essential for Cyclistic's future growth.
 Our goal is to increase membership sales by converting casual riders into annual members.
 
+![Casual vs Annual Riders Chart](Casuals-vs-Members-Total-Rides.png)
+
 ---
 
-## 📊 Projects
+## 📊 Methodology
+
+
+
+
+
 
 ### [Project 1: Sales Analysis Dashboard](link-to-project)
 - **Goal:** Analyze sales performance by region to identify growth opportunities.
