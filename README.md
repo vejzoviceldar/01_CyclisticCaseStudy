@@ -19,10 +19,10 @@ Our goal is to increase membership sales by converting casual riders into annual
 4. Created a presentation summarizing key insights and recommendations to convert casual riders into members.
 
 ### Skills:
-SQL: Case, joins, and aggregate functions
-Excel: Pivot tables, visualizations, and trend analysis
-Tableau: Dashboard creation and data visualizations
-Presentation: Designing easy-to-understand presentations that highlight key insights.
+  SQL: Case, joins, and aggregate functions  
+  Excel: Pivot tables, visualizations, and trend analysis  
+  Tableau: Dashboard creation and data visualizations  
+  Presentation: Designing easy-to-understand presentations that highlight key insights  
 
 ### Results & Business Recommendation:
 
