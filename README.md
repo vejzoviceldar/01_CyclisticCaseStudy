@@ -38,7 +38,7 @@ To achieve this target, I recommend several strategic actions:
 4. Intensify marketing campaigns during peak riding months (April–August) and on weekends
 5. Focus marketing efforts on stations popular with casual riders and those showing a balanced mix of casual and member users
 
-I believe these recommendations could increase annual memberships, stabilize seasonal fluctuations, and generate more predictable long-term revenue for Cyclistic.
+I believe these recommendations could increase annual memberships and generate more predictable long-term revenue for Cyclistic.
 
 ### Next Steps:
 
