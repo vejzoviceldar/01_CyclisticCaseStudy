@@ -10,7 +10,7 @@ I used SQL to combine 12 months of Cyclistic data from 2024 into a single master
 The marketing director believes that expanding the base of annual members is essential for Cyclistic's future growth.
 Our goal is to increase membership sales by converting casual riders into annual members.
 
-![Casual vs Annual Riders Chart](Casuals-vs-Members-Total-Rides.png)
+![Casual vs Annual Riders Chart](Casuals-vs-Annuals-Share-of-Rides.png)
 
 ### Methodology:
 1. Combined 12 months of Cyclistic 2024 trip data into a single master dataset using SQL.
@@ -27,7 +27,7 @@ Our goal is to increase membership sales by converting casual riders into annual
 ### Results & Business Recommendation:
 Creating a dashboard to analyze Cyclistic rider behavior revealed clear differences between casual riders and annual members. Casual riders typically use Cyclistic bikes on weekends, take longer rides, and frequent popular tourist areas, while annual members ride more consistently throughout the week, primarily for commuting purposes.
 
-![Tableau-Dashboard](Tableau-Dashboard.png)
+![Tableau-Dashboard](Tableau-Dashboard-Cyclistic.png)
 
 Since casual riders accounted for 36% of all rides in 2024, converting 11% of them into annual members would shift the overall balance to approximately 25% casual and 75% member rides, supporting our goal of increasing membership-based revenue.
 
