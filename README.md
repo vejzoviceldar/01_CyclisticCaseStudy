@@ -13,10 +13,10 @@ Our goal is to increase membership sales by converting casual riders into annual
 ![Casual vs Annual Riders Chart](Casuals-vs-Annuals-Share-of-Rides.png)
 
 ### Methodology:
-1. Combined 12 months of Cyclistic 2024 trip data into a single master dataset using SQL.
-2. Cleaned and transformed the data in SQL to ensure consistency across all months.
-3. Analyzed rider trends in SQL and built Tableau and Excel dashboards to compare casual and annual members.
-4. Created a presentation summarizing key insights and recommendations to convert casual riders into members.
+1. Combined 12 months of Cyclistic 2024 trip data into a single master dataset using SQL
+2. Cleaned and transformed the data in SQL to ensure consistency across all months
+3. Analyzed rider trends in SQL and built Tableau and Excel dashboards to compare casual and annual members
+4. Created a presentation summarizing key insights and recommendations to convert casual riders into members
 
 ### Skills:
   SQL: Case, joins, and aggregate functions  
