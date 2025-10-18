@@ -27,17 +27,22 @@ Our goal is to increase membership sales by converting casual riders into annual
 ### Results & Business Recommendation:
 Creating a dashboard to analyze Cyclistic rider behavior revealed clear differences between casual riders and annual members. Casual riders typically use Cyclistic bikes on weekends, take longer rides, and frequent popular tourist areas, while annual members ride more consistently throughout the week, primarily for commuting purposes.
 
-![Most popular day of the week - Casual Riders](Casuals-Most-Popular-Weekday.png) ![Most popular day of the week - Annual Members](Members-Most-Popular-Weekday.png)
+![Tableau-Dashboard](Tableau-Dashboard.png)
 
----
+Since casual riders accounted for 36% of all rides in 2024, converting 11% of them into annual members would shift the overall balance to approximately 25% casual and 75% member rides, supporting our goal of increasing membership-based revenue.
 
-## 📬 Contact
+To achieve this target, I recommend several strategic actions:
+1. Introduce weekend and tourist-focused membership offers
+2. Partner with local attractions in hot-spot areas to provide exclusive discounts for members
+3. Use app notifications and targeted email campaigns to nudge frequent casual riders
+4. Intensify marketing campaigns during peak riding months (April–August) and on weekends
+5. Focus marketing efforts on stations popular with casual riders and those showing a balanced mix of casual and member users
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+I believe these recommendations could increase annual memberships, stabilize seasonal fluctuations, and generate more predictable long-term revenue for Cyclistic.
 
----
+### Next Steps:
 
-## 🚀 How to Use
-
-Clone the repo and run the Jupyter notebooks in the `notebooks/` directory, or explore the dashboards linked above.
+1. Collect additional user data
+2. Conduct A/B Testing for marketing campaigns
+3. Analyze seasonal and weather impacts
+4. Build live dashboard for ongoing tracking
