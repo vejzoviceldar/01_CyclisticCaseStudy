@@ -25,10 +25,7 @@ Our goal is to increase membership sales by converting casual riders into annual
   Presentation: Designing easy-to-understand presentations that highlight key insights  
 
 ### Results & Business Recommendation:
-
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-- [Public APIs]
+Creating a dashboard to analyze Cyclistic rider behavior revealed clear differences between casual riders and annual members. Casual riders typically use Cyclistic bikes on weekends, take longer rides, and frequent popular tourist areas, while annual members ride more consistently throughout the week, primarily for commuting purposes.
 
 ---
 
