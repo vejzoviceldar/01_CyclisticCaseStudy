@@ -27,6 +27,8 @@ Our goal is to increase membership sales by converting casual riders into annual
 ### Results & Business Recommendation:
 Creating a dashboard to analyze Cyclistic rider behavior revealed clear differences between casual riders and annual members. Casual riders typically use Cyclistic bikes on weekends, take longer rides, and frequent popular tourist areas, while annual members ride more consistently throughout the week, primarily for commuting purposes.
 
+![Most popular day of the week - Casual Riders](Casuals-Most-Popular-Weekday.png) ![Most popular day of the week - Annual Members](Members-Most-Popular-Weekday.png)
+
 ---
 
 ## 📬 Contact
