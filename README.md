@@ -8,7 +8,7 @@ I used SQL to combine 12 months of Cyclistic data from 2024 into a single master
 
 ### Business Task:
 The marketing director believes that expanding the base of annual members is essential for Cyclistic's future growth.
-Our goal is to increase membership sales by converting casual riders into annual members.
+Our goal is to **increase membership sales** by converting casual riders into annual members.
 
 ![Casual vs Annual Riders Chart](images/Casuals-vs-Annuals-Share-of-Rides.png)
 
@@ -29,7 +29,7 @@ Creating a dashboard to analyze Cyclistic rider behavior revealed clear differen
 
 ![Tableau-Dashboard](images/Tableau-Dashboard-Cyclistic.png)
 
-Since casual riders accounted for 36% of all rides in 2024, converting 11% of them into annual members would shift the overall balance to approximately 25% casual and 75% member rides, supporting our goal of increasing membership-based revenue.
+Since casual riders accounted for **36%** of all rides in 2024, converting additional 11% would shift the overall balance to approximately 25% casual and 75% member rides, supporting our goal of increasing membership-based revenue.
 
 To achieve this target, I recommend several strategic actions:
 1. Introduce weekend and tourist-focused membership offers
