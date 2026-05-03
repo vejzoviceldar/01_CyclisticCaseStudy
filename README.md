@@ -46,5 +46,3 @@ I believe these recommendations could increase annual memberships and generate m
 2. Conduct A/B Testing for marketing campaigns
 3. Analyze seasonal and weather impacts
 4. Build live dashboard for ongoing tracking
-Analyze seasonal and weather impacts
-Build live dashboard for ongoing tracking
